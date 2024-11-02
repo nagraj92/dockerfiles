@@ -10,10 +10,8 @@ pipeline{
                 """
             }
         }    }
+
     
-    
-}
-    }
     post {
         always {
           echo 'hi'
